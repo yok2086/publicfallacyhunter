@@ -1,0 +1,34 @@
+💾 Saved 264 comments to annotation_batch.csv
+
+📊 Sampling Summary:
+None: 100 samples
+Equivocation: 25 samples
+Causal fallacy: 25 samples
+Bandwagon fallacy: 25 samples
+Hasty generalization: 25 samples
+Appeal to hypocrisy: 23 samples
+Circular argument: 18 samples
+Appeal to pity: 13 samples
+Ad hominem: 3 samples
+Appeal to authority: 3 samples
+Straw man: 2 samples
+Red herring: 1 samples
+Appeal to ignorance: 1 samples
+📋 Created annotation_instructions.txt
+
+🎉 Ready for annotation!
+1. Open annotation_batch.csv in Excel or annotation tool
+2. Follow annotation_instructions.txt
+3. Start with obvious examples first
+4. Target 300-400 high-quality annotations
+
+Final Augmentation Summary:
+✅ Ad hominem: 3 → 18 examples (+15)
+✅ Appeal to authority: 3 → 18 examples (+15)
+✅ Red herring: 1 → 18 examples (+17)
+✅ Appeal to ignorance: 1 → 18 examples (+17)
+✅ Straw man: 2 → 17 examples (+15)
+✅ Appeal to pity: 13 → 23 examples (+10)
+✅ Circular argument: 18 → 23 examples (+5)
+Total synthetic examples added: +94
+
